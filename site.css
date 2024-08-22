@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    color: white;
+
+}
+
+.itens {
+    display: flex;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+#padding {
+    padding: 100px;
+    background-color: brown;
+}
+
+.caixa {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+    border: 1px solid black;
+    text-align: flex;
+    background-color: white;
+    box-shadow: 10px 10px 5px black;
+    
+}
+
+main{
+    display: flex;
+}
